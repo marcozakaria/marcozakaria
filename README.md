@@ -1,4 +1,6 @@
-### Hello World 👋😄 <img src="https://user-images.githubusercontent.com/24639480/90150903-6c446800-dd86-11ea-9df4-fedf65a2ecb5.gif" width="40" /> 
+
+  ### Hello World 👋😄 
+
 
 <!--
 **marcozakaria/marcozakaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
